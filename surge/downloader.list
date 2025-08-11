@@ -1,0 +1,11 @@
+PROCESS-NAME,p4pclient
+PROCESS-NAME,Thunder
+PROCESS-NAME,DownloadService
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,Transmission
+PROCESS-NAME,fdm
+PROCESS-NAME,aria2c
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
